@@ -1,0 +1,1 @@
+{"fixtures":[{"name":"HomepageProducts","pageUrl":"https://www.saucedemo.com/inventory.html","tests":[{"name":"New Test","commands":[]}],"authCredentials":{"username":"standard_user","password":"secret_sauce","domain":"saucedemo.com/inventory.html"}}]}

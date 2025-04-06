@@ -1,0 +1,1 @@
+{"fixtures":[{"name":"LoginPortal","pageUrl":"https://www.saucedemo.com/","tests":[{"name":"ValidLoginSmokeTest","commands":[]},{"name":"InvalidLoginSmokeTest","commands":[]},{"name":"InvalidLogin","commands":[]}]}]}
